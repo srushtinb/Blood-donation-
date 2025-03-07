@@ -1,0 +1,33 @@
+{
+  "name": "project_new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BNsrujan/project_new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BNsrujan/project_new/issues"
+  },
+  "homepage": "https://github.com/BNsrujan/project_new#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7",
+    "vite": "^6.0.1"
+  },
+  "dependencies": {
+    "axios": "^1.7.8",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.8.3"
+  }
+}

@@ -24,6 +24,7 @@ app.use('/api/hospital', hospitalRoutes);
 app.use('/api/clinic', clinicRoutes);
 app.use('/api/emergency', emergencyRoutes);
 
+
 // Add this after all route declarations but before the database connection
 app.use(errorHandler);
 
